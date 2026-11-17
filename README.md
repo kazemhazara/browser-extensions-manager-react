@@ -20,7 +20,7 @@ The goal of this project was to rebuild the same interface using React and pract
 
 ## 🚀 Live Demo
 
-Coming Soon...
+[View Live Demo](https://kazemhazara.github.io/browser-extensions-manager-react/)
 
 ## 🔗 Original Project
 
