@@ -11,11 +11,11 @@ The goal of this project was to rebuild the same interface using React and pract
 - [Live Demo](#-live-demo)
 - [Original Project](#-original-project)
 - [Features](#-features)
-- [Built With](#-built-with)
+- [Built With](#built-with)
 - [What I Learned](#-what-i-learned)
 - [Run Locally](#-run-locally)
 - [Preview](#-preview)
-- [Author](#-author)
+- [Author](#author)
 - [Contact](#-contact)
 
 ## 🚀 Live Demo
@@ -39,7 +39,7 @@ This React version is based on my original project built with HTML, CSS, and Van
 - Remember the selected theme after refreshing the page.
 - Responsive design for different screen sizes.
 
-## 🛠️ Built With
+## Built With
 
 - React
 - JavaScript (ES6+)
@@ -103,7 +103,7 @@ While building this project, I practiced:
 
 
 
-## 👨‍💻 Author
+## Author
 <a href="https://github.com/kazemhazara">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
