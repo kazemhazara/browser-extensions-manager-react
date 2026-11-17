@@ -95,11 +95,11 @@ While building this project, I practiced:
 
 ### Desktop View
 
-![Desktop Preview](./Screenshots/desktop.png)
+![Desktop Preview](./Screenshots/desktop-img.png)
 
 ### Mobile View
 
-![Mobile Preview](./Screenshots/mobile.png)
+![Mobile Preview](./Screenshots/mobile-img.png)
 
 
 
