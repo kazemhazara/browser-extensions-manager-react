@@ -1,0 +1,31 @@
+@import "./varilabel.css";
+*,
+*::before,
+*::after {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: var(--font-primary);
+}
+a {
+  text-decoration: none;
+}
+ul,
+li {
+  list-style-type: none;
+}
+input {
+  border: none;
+  background-color: none;
+}
+button {
+  border: none;
+  background-color: none;
+}
+.app {
+  min-height: 100vh;
+  background: var(--color-page-bg);
+  color: var(--color-text-primary);
+}

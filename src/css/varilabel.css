@@ -1,0 +1,78 @@
+@import "./fonts.css";
+:root {
+  /* Page */
+  --color-page-bg: linear-gradient(180deg, #ebf2fc 0%, #eef8f9 100%);
+
+  /* Surface */
+  --color-surface: hsl(200, 60%, 99%);
+  --color-surface-secondary: hsl(0, 0%, 93%);
+
+  /* Text */
+  --color-text-primary: hsl(227, 75%, 14%);
+  --color-text-secondary: hsl(226, 11%, 37%);
+
+  /* Border */
+  --color-border: hsl(217, 61%, 90%);
+  --color-border-secondary: hsl(0, 0%, 78%);
+
+  /* Filter Buttons */
+  --color-button-bg: hsl(200, 60%, 99%);
+  --color-button-text: hsl(227, 75%, 14%);
+  --color-button-border: hsl(217, 61%, 90%);
+
+  /* Toggle */
+  --color-toggle-active: hsl(3, 77%, 44%);
+  --color-toggle-inactive: hsl(0, 0%, 78%);
+  --color-toggle-circle: hsl(200, 60%, 99%);
+
+  /* Icon Button */
+  --color-icon-button-bg: hsl(0, 0%, 93%);
+  --color-icon-button-text: hsl(227, 75%, 14%);
+  /* Active Button */
+  --color-button-active-bg: hsl(3, 77%, 44%);
+  --color-button-active-text: hsl(200, 60%, 99%);
+
+
+  /* Font */
+  --font-primary: "NotoSans";
+}
+.dark {
+  /* Page */
+  --color-page-bg: linear-gradient(180deg, #040918 0%, #091540 100%);
+
+  /* Surface */
+  --color-surface: hsl(226, 25%, 17%);
+  --color-surface-secondary: hsl(225, 23%, 24%);
+
+  /* Text */
+  --color-text-primary: hsl(217, 61%, 90%);
+  --color-text-secondary: hsl(0, 0%, 78%);
+
+  /* Border */
+  --color-border: hsl(226, 11%, 37%);
+  --color-border-secondary: hsl(225, 23%, 24%);
+
+  /* Primary Button */
+  /*--color-button-primary-bg: hsl(3, 86%, 64%);
+  --color-button-primary-text: hsl(227, 75%, 14%);
+  --color-button-primary-hover: hsl(3, 71%, 56%);*/
+
+  /* Filter Buttons */
+  --color-button-bg: hsl(226, 25%, 17%);
+  --color-button-text: hsl(217, 61%, 90%);
+  --color-text-border: hsl(226, 11%, 37%);
+
+  /* Active  Button */
+  --color-filter-active-bg: hsl(3, 86%, 64%);
+  --color-filter-active-text: hsl(227, 75%, 14%);
+  --color-filter-active-hover: hsl(3, 71%, 56%);
+
+  /* Toggle */
+  --color-toggle-active: hsl(3, 86%, 64%);
+  --color-toggle-inactive: hsl(226, 11%, 37%);
+  --color-toggle-circle: hsl(200, 60%, 99%);
+
+  /* Icon Button */
+  --color-icon-button-bg: hsl(225, 23%, 24%);
+  --color-icon-button-text: hsl(217, 61%, 90%);
+}
