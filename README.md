@@ -95,7 +95,7 @@ While building this project, I practiced:
 
 ### Desktop View
 
-![Desktop Preview](./Screenshots/desktop-img.png)
+![Desktop Preview](./Screenshots/desctop-img.png)
 
 ### Mobile View
 
