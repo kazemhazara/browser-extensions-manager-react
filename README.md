@@ -104,11 +104,28 @@ While building this project, I practiced:
 
 
 ## 👨‍💻 Author
+<a href="https://github.com/kazemhazara">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 Built as part of my journey to improve my frontend development skills and learn React.
 
 ## 📬 Contact
 
 Feel free to connect with me through the following platforms:
+<p align ="left">
+  <a href="mailto:kaz.hazara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/kazemhazara">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kazemhazara">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-\<p>   \<a href="mailto\:kaz.hazara\@gmail.com">     \<img src="[https://cdn.simpleicons.org/gmail/EA4335](https://cdn.simpleicons.org/gmail/EA4335)" width="24" height="24" alt="Gmail" />   \</a>   &nbsp;   \<a href="[https://github.com/kazemhazara](https://github.com/kazemhazara)">     \<img src="[https://cdn.simpleicons.org/github/181717](https://cdn.simpleicons.org/github/181717)" width="24" height="24" alt="GitHub" />   \</a>   &nbsp;   \<a href="YOUR_LINKEDIN_PROFILE_URL">     \<img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://cdn.simpleicons.org/linkedin/0A66C2)" width="24" height="24" alt="LinkedIn" />   \</a>   &nbsp;   \<a href="YOUR_WHATSAPP_LINK">     \<img src="[https://cdn.simpleicons.org/whatsapp/25D366](https://cdn.simpleicons.org/whatsapp/25D366)" width="24" height="24" alt="WhatsApp" />   \</a> \</p>
+
+
+
+
