@@ -68,7 +68,7 @@ While building this project, I practiced:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://kazemhazara.github.io/browser-extensions-manager-react/
    ```
 
 2. Navigate to the project directory:
