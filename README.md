@@ -74,7 +74,7 @@ While building this project, I practiced:
 2. Navigate to the project directory:
 
    ```bash
-   cd YOUR_PROJECT_FOLDER
+   cd browser-Extensions-Manager-React
    ```
 
 3. Install dependencies:
